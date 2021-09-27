@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <style>
 /*
@@ -291,7 +291,5 @@ footer {
       </footer>
     </main>
   </body>
-</html>
-
 </html>
 
