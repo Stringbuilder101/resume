@@ -285,7 +285,5 @@ footer {
           </ul>
         </div>
       </footer>
-    </main>
-  </body>
-</html>
+    
 
