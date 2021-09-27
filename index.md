@@ -272,8 +272,7 @@ footer {
             <h3>NYCT City University of New York - New York, NY</h3>
             <p>Applied Mathematics, 2015</p>
           </section>
-        </div>
-      </section>
+		    </div>
       <!-- *****************  CONTACT INFO / SOCIAL MEDIA  ***************** -->
       <footer>
         <div>
