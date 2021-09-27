@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Polina Zhukovskaya Clements</title>
+    <title>Polina Zhukovskaya Clements, Student at Queens College + Music Theory Tutor</title>
      <link href="https://fonts.googleapis.com/css?family=Caveat|Montserrat:400,600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
   </head>
@@ -11,17 +11,19 @@
     <main>
       <!-- ***********************  ABOUT / PROFILE  *********************** -->
       <header>
-        <div class="content-wrap">
-          <h1>Polina Clements</h1>
-          <h2>Student at City University of New York Queens College</h2>
-        </div>
-			</header>
+           <div>
+          <h1>Polina Zhukovskaya Clements</h1>
+          <h2>Student at Queens College City University of New York + Music Theory Tutor</h2>
 
-      <!-- ********************  PROJECTS / PORTFOLIO  ********************* -->
-      <section class="projects">
-        <div class="content-wrap divider">
+          <p>As a student, I am interested in system modeling and computer science applications. As a tutor, I focus on interesting problems, and delivering results.</p>
+						 <p>I’m also exploring more creative pursuits designing projects with real life applications.</p>
+        </div>
+      </header>
+
+     <!-- ********************  PROJECTS / PORTFOLIO  ********************* -->
+          <div>
+           
           <h2>Featured Projects</h2>
-				
           <!-- Project 2 -->
           <section class="project-item">
 						   <span style="font-weight:700;color:rgb(253, 253, 253)">AirEx</span>
@@ -45,36 +47,31 @@
       </section>
 
       <!-- ***********************  WORK EXPERIENCE  *********************** -->
-      <section class="work-experience item-details">
-        <div class="content-wrap divider">
+          <div>
           <h2>Work Experience</h2>
 
           <!-- Job 1 -->
-          <section class="job-item">
-            <div class="job-details">
+    
               <h3> Research Foundation</h3>
               <p>Student Aid, CUNY</p>
               <p>December 2019 -January 2020</p>
             </div>
-            <div class="job-summary">
+            <div>
               <p>Designed and maintained a database of student internships available in Summer 2020. Performed clerical and administrative work related to arrangement of final exams. Answered phone calls and under supervision resolved issues in CUNY EDGE program participating students. 
             </div>
           </section>
           <!-- Job 1 -->
-          <section class="job-item">
-            <div class="job-details">
+            <div>
               <h3> Central Staff Services</h3>
               <p>Music Theory Tutor</p>
               <p>June 2019 - August 2019</p>
             </div>
-            <div class="job-summary">
+            <div>
               <p>Customized tutoring and instructional approaches to meet the needs of diverse client populations. Tutored in Music Theory subject areas and guided students in test taking strategies, prioritising, and studying for the exams. Elevated student performance by at least one letter grade. 
             </div>
           </section>
-
       <!-- ******************  EDUCATION & CERTIFICATIONS ****************** -->
-      <section class="education item-details">
-        <div class="content-wrap">
+        <div>
           <h2>Education</h2>
 
           <section>
@@ -93,19 +90,19 @@
           </section>
         </div>
       </section>
-
       <!-- *****************  CONTACT INFO / SOCIAL MEDIA  ***************** -->
       <footer>
-        <div class="content-wrap">
-          <h2>Let's Keep in Touch!</h2>
+        <div>
+           <h2>Let's Keep in Touch!</h2>
 
           <!-- Social media and contact links. Add or remove any networks. -->
           <ul class="contact-list">
-            <li>pollycle@yahoo.com</li>
-            <li>(646) 246 - 3097</li>
+            <li>pollycle@yahoo.com |</li>
+            <li>| (646) 246 - 3097</li>
           </ul>
         </div>
       </footer>
     </main>
   </body>
 </html>
+
