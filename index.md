@@ -230,7 +230,7 @@ footer {
 						</p>
           </section>
         </div>
-      </section>
+  
 
       <!-- ***********************  WORK EXPERIENCE  *********************** -->
           <div>
