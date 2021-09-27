@@ -253,8 +253,7 @@ footer {
             </div>
             <div>
               <p>Customized tutoring and instructional approaches to meet the needs of diverse client populations. Tutored in Music Theory subject areas and guided students in test taking strategies, prioritising, and studying for the exams. Elevated student performance by at least one letter grade. 
-            </div>
-          </section>
+           
       <!-- ******************  EDUCATION & CERTIFICATIONS ****************** -->
         <div>
           <h2>Education</h2>
