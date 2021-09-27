@@ -244,8 +244,7 @@ footer {
             </div>
             <div>
               <p>Designed and maintained a database of student internships available in Summer 2020. Performed clerical and administrative work related to arrangement of final exams. Answered phone calls and under supervision resolved issues in CUNY EDGE program participating students. 
-            </div>
-          </section>
+           
           <!-- Job 1 -->
             <div>
               <h3> Central Staff Services</h3>
